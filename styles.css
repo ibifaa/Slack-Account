@@ -1,0 +1,17 @@
+body{
+    background-color: #ADB3ED;
+}
+
+main{
+    background-color: white;
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
