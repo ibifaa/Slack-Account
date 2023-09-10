@@ -4,14 +4,37 @@ body{
 
 main{
     background-color: white;
-    width: 40%;
-    margin: auto;
-    padding: 20px;
+    width: 30%;
+    margin: 20px auto;
     border-radius: 10px;
+    text-align: center;
+}
+
+.top-section{
+    background-color: #d4d6ec;
+    padding: 10px 0 5px 0;
+    border-radius: 10px 10px 0 0;
+}
+
+.body-section{
+    padding: 0px 30px 20px 30px;
+    text-align: left;
 }
 
 img{
     border-radius: 50%;
     height: 100px;
     width: 100px;
+}
+
+hr{
+    color: #d4d6ec;
+}
+
+a{
+    text-decoration: none;
+}
+
+.head{
+    font-weight: bold;
 }
